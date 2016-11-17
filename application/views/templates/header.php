@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Home</title>
+    <title><?php echo $title; ?></title>
 </head>
 <body>
-
-Header
+<H1 align="center">Header</H1>
+<br><br><hr><br><br><br><br><br><br><br>
